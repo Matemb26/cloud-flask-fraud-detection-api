@@ -1,10 +1,6 @@
-# Chapter 05 — Let other programs talk to your model
-
-> Matches **Chapter 05** in the book. The runnable scripts for this chapter are in this folder.
+#  Let other programs talk to your model
 
 **Labels:** 💻 Runs free on your laptop · 🌐 Needs the internet
-
----
 
 ## The big idea (in plain words)
 
